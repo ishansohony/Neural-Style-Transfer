@@ -11,4 +11,5 @@ The loss-function for the style-image is slightly more complicated, because it i
 
 TO DO:
 GAIN A MORE CLEAR UNDERSTANDING OF A GRAM MATRIX
+
 TRY TO USE DIFFERENT LAYERS AND CHECK IF BETTER RESULTS ARE OBTAINED
